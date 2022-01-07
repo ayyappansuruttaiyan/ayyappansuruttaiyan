@@ -2,7 +2,7 @@
 - 👀 I’m interested in Developing Web applications
 - 🌱 I’m currently learning ReactJs
 - 💞️ I’m looking to collaborate on Developing Applications
-- 📫 How to reach me ayyappan.sjec@gmail.com
+- 📫 How to reach me ayyappan.suruttaiyan@gmail.com
 
 <!---
 ayyappansuruttaiyan/ayyappansuruttaiyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
