@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayyappansuruttaiyan
 - 👀 I’m interested in Developing Web applications
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning AWS. (MERN) Technologies
 - 💞️ I’m looking to collaborate on Developing Applications
 - 📫 How to reach me ayyappan.suruttaiyan@gmail.com
 
